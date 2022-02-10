@@ -1,0 +1,17 @@
+.wrap {
+  margin: 2rem 0;
+}
+
+.wrap > button {
+  display: block;
+  background-color: #0c6;
+  border-radius: 3rem;
+  color: #fff;
+  border: none;
+  padding: 1.4rem 1.4rem;
+  width: 100%;
+  font-size: 1.6rem;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+}

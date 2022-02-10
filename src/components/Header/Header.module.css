@@ -1,0 +1,18 @@
+.wrap {
+  background-color: #1a3035;
+  padding: 20px 0 15px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 50rem;
+  margin: 0 auto;
+}
+
+.logo {
+  display: block;
+  width: 120px;
+  margin: 0 auto;
+}
+
+.logo svg {
+  fill: #0c6;
+}

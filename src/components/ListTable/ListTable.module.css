@@ -1,0 +1,36 @@
+.table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 2.5rem;
+  border: 1px solid #e8e8e8;
+}
+
+.thead {
+  background-color: #1a3034;
+  color: #fff;
+}
+
+.thead > tr > th {
+  text-align: left;
+  font-size: 1.6rem;
+  padding: 1.3rem 2rem 1.2rem;
+}
+
+.tbody {
+  display: table-row-group;
+  vertical-align: center;
+}
+
+.tbody > tr:nth-child(odd) {
+  background-color: #e8e8e8;
+}
+
+.tbody > tr > td {
+  text-align: left;
+  padding: 1.6rem 2rem;
+  font-size: 1.6rem;
+}
+
+.data {
+  width: 34rem;
+}
